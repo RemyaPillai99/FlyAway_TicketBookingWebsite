@@ -1,4 +1,6 @@
-# FlyAway_TicketBookingWebsite
-FlyAway is a ticket booking website 
+# FlyAway 
+# ProjectDetails
+FlyAway is an airline ticket-booking website.
 
-#ProjectDetails
+ 
+
